@@ -319,7 +319,7 @@ public class App extends JMapFrame implements Runnable, ContractApp.View {
 			//TODO
 			//history.setX(mapToScreen(history.getPoint().getX(),history.getPoint().getY()).x);
 			//
-			history.setY(mapToScreen(history.getPoint().getX(),history.getPoint().getY()).y);
+			//history.setY(mapToScreen(history.getPoint().getX(),history.getPoint().getY()).y);
 		}
 		
 	}
